@@ -33,7 +33,6 @@ export default function Home() {
                 </ClerkLoading>
                 <ClerkLoaded>
                     <SignedIn>
-
                     </SignedIn>
                     <SignedOut>
                         <SignUpButton
